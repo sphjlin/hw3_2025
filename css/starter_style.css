@@ -57,7 +57,6 @@ html{
     background: white;
     left: 0;
     padding: 6px;
-    -webkit-transition: top 1s ease-out;
     transition: top 1s ease-out;
     z-index: 1;
   }
@@ -90,7 +89,6 @@ html{
     }
   
     .skip a{
-      -webkit-transition: none; /* sets to default setting */
       transition: none;        /* sets to default setting */
      }
   
