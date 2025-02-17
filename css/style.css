@@ -70,7 +70,7 @@ first div in the grid and place it in the grid. */
 .text-block {
      display: grid;
      align-self: center;
-     overflow: auto;
+     overflow: hidden;
      text-align: center;
 }
 
